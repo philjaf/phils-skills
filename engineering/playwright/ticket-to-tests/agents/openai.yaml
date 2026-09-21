@@ -1,0 +1,3 @@
+interface:
+  display_name: "Ticket to Tests"
+  short_description: "Jira ticket → Gherkin plan → Playwright tests with evidence report"
